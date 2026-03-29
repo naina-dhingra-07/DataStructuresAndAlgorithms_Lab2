@@ -1,0 +1,17 @@
+--- Task 1: Dynamic Array ---
+Resizing: 2 -> 4
+Resizing: 4 -> 8
+Resizing: 8 -> 16
+Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+Popped: 11, 10, 9
+Updated Array: [1, 2, 3, 4, 5, 6, 7, 8]
+
+--- Task 2: Linked Lists ---
+10 -> 20
+20
+
+--- Task 4: Parentheses Checker ---
+'([])' -> Balanced
+'([)]' -> Not balanced
+'(((' -> Not balanced
+'' -> Balanced
